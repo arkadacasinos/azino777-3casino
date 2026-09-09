@@ -34,6 +34,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <meta name="theme-color" content="#0b0e0d" />
         <meta name="format-detection" content="telephone=no" />
         <link rel="canonical" href="https://azino777-3casino.vercel.app" />
+        <meta name="yandex-verification" content="e0ee9e505c70ef5f" />
         <script
   dangerouslySetInnerHTML={{
     __html: `
